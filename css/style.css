@@ -21,7 +21,9 @@ h1 {
    font-size: 20px;
    line-height: 1.5;
    color: #1e212c;
+   white-space: nowrap;
 }
 ul li {
    line-height: 1;
+   white-space: nowrap;
 }
